@@ -1,4 +1,4 @@
-# Portfolio setup and mobile version skeleton
+# Portfolio mobile version
 
 > A microverse project
 
